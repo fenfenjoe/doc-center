@@ -12,4 +12,10 @@ doc-center/
 └── README.md         # 项目说明文档
 ```
 
+## 如何使用本项目
+
+1. 下载VS CODE、Cursor或者Trae等IDE工具
+2. 安装以下依赖项：
+   - markdown-preview-enhanced (VS Code 插件)
+
 
