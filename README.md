@@ -14,8 +14,23 @@ doc-center/
 
 ## 如何使用本项目
 
-1. 下载VS CODE、Cursor或者Trae等IDE工具
-2. 安装以下依赖项：
-   - markdown-preview-enhanced (VS Code 插件)
+1. 下载&安装Trae
+
+略
+
+2. 安装node.js和npm
+
+略
+
+```bash
+node -v
+npx -v
+```
+
+3. 安装 find-skills 技能
+
+```bash
+npx skills add https://github.com/vercel-labs/skills --skill find-skills
+```
 
 

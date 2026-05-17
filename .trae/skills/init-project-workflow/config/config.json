@@ -1,0 +1,9 @@
+{
+  "skill_name": "init-project-workflow",
+  "version": "1.0.0",
+  "description": "初始化项目工作流主Skill",
+  "trigger_keywords": ["初始化", "项目", "项目文档", "初始化项目", "初始化项目文档"],
+  "trigger_pattern": "(初始化|创建|生成).*(项目|项目文档)",
+  "project_base_path": "../../Projects",
+  "sample_template_path": "../../Projects/sample"
+}

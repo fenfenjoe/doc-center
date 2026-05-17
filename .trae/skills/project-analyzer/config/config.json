@@ -1,0 +1,7 @@
+{
+  "skill_name": "project-analyzer",
+  "version": "1.0.0",
+  "description": "项目分析Skill",
+  "trigger_keywords": ["分析", "analyze", "技术栈", "框架", "语言"],
+  "trigger_pattern": "(分析|analyze|技术栈|框架|语言)"
+}

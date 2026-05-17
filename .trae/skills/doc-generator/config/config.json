@@ -1,0 +1,7 @@
+{
+  "skill_name": "doc-generator",
+  "version": "1.0.0",
+  "description": "文档生成Skill",
+  "trigger_keywords": ["生成文档", "创建文档", "文档", "doc", "documentation"],
+  "trigger_pattern": "(生成|创建|生成).*(文档|doc)"
+}

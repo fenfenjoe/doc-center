@@ -1,0 +1,7 @@
+{
+  "skill_name": "git-operations",
+  "version": "1.0.0",
+  "description": "Git操作Skill",
+  "trigger_keywords": ["git", "克隆", "clone", "拉取", "pull"],
+  "trigger_pattern": "(git|克隆|clone|拉取|pull)"
+}
